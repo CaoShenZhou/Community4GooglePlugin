@@ -1,0 +1,2 @@
+# Community4GooglePlugin
+基于谷歌浏览器开发的社区辅助插件
